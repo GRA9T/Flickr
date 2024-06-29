@@ -108,7 +108,7 @@ Once the app is installed and running, you can:
 
 ## Flickr Android App DEMO
 
-https://img.drive.google.com/file/d/12xnyrjl08L77jK6HSJkD7xfH6t1HHxlW/view?usp=drive_link
+https://github.com/GRA9T/Flickr/assets/174186527/af88cf14-df7a-47cc-8358-f2d71188031f
 
 ## Contributing
 
